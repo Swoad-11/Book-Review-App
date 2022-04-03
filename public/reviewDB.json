@@ -1,0 +1,37 @@
+[{
+    "id": 1,
+    "first_name": "Zoe",
+    "rating": "4.5",
+    "img": "https://i.pinimg.com/564x/a7/80/80/a7808059330f062de8a90e844d0558d1.jpg",
+    "text": "The best book I have read with hell lot of mysteries. There are Soo many short stories and each one is really awesome. Every story is mind-blowing. As usual Sherlock Holmes is great at solving mysteries. You'll enjoy reading it. Everyone must try reading this amazing book!"
+  }, {
+    "id": 2,
+    "first_name": "Priscella",
+    "rating": "5",
+    "img": "https://i.pinimg.com/564x/de/d4/a1/ded4a1b781b63e3d65875c2c70cf7ac8.jpg",
+    "text": "This book is very awesome. It keeps you bound till the end of every adventure of detective Holmes. Its worth reading. Its an excellent combination of mystery, suspense and somewhere comedy. It is a book for readers of every age and reading taste."
+  }, {
+    "id": 3,
+    "first_name": "Deloris",
+    "rating": "4",
+    "img": "https://i.pinimg.com/564x/33/c0/4c/33c04cadc636d314f82196c5484ac548.jpg",
+    "text": "This is one of my best read novel book. It has impressed and amazed me a lot. Mmaking me curious to go inside. Holmes thought and his wit always startled me. I loved the Sherlock Holmes books and really enjoyed following the various mysteries that Watson and Holmes dealt with through the years. I fancy myself better at reaching the correct conclusion than Dr Watson is, although I am nowhere near as observant as Holmes."
+  }, {
+    "id": 4,
+    "first_name": "Gunar",
+    "rating": "4.5",
+    "img": "https://i.pinimg.com/564x/27/82/62/2782629524574d2a03b60dc596525c7a.jpg",
+    "text": "The book was very interesting and creative. I was always trying to think of what would happen next. The beggining is a bit slow but once you start reading, you will find that you cant stop."
+  }, {
+    "id": 5,
+    "first_name": "George",
+    "rating": "5",
+    "img": "https://i.pinimg.com/564x/02/f6/c2/02f6c2359382ca3c26c9aeb8366321ea.jpg",
+    "text": "A lesson in the Art of Deductions by our very own favourite person from Baker Street, Sherlock Holmes. Some of the murder mysteries may be slow going and not that entertaining but most are thrilling and an entertaining read. Sherlock is your man if you love murder mysteries."
+  }, {
+    "id": 6,
+    "first_name": "5",
+    "rating": "Business Development",
+    "img": "https://i.pinimg.com/564x/30/85/b7/3085b72943f8d3da117e48ee3a81af13.jpg",
+    "text": "Perfectly engaging and well sought out. The passion and persistence portrayed in each character in the book truly reflect the brilliant mind of Sir Arthur Conan Doyle. A read for all fans of mystery, thriller, and of course, Sherlockians."
+  }]
