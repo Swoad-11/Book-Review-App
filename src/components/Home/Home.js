@@ -14,7 +14,7 @@ const Home = () => {
                 <h1 className='font-bold text-4xl mb-4 text-amber-900'>Your Consulting Detective</h1>
                 <p>The lowest and vilest alleys in London do not present a more dreadful record of sin than does the smiling and beautiful countryside.</p>
                 </div>
-                <Link to='/about'>See More</Link>
+                <button className='px-4 py-2 font-semibold text-sm bg-white text-white dark:bg-amber-600 hover:bg-amber-700 rounded-lg mt-4'><Link to='/about'>See More</Link></button>
             </div>
         </div>
     );
