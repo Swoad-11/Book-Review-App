@@ -3,7 +3,7 @@ import './Review.css'
 
 const Review = (props) => {
     const {first_name,rating,img,text} = props.review;
-    console.log(props.review);
+    
     return (
         <div className='p-6 border-solid border-2 border-amber-600 rounded-lg'>
             <img className='rounded-full mx-auto mb-2' src={img} alt="" />
