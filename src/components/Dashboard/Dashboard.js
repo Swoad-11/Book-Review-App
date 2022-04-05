@@ -1,19 +1,6 @@
 import axios from "axios";
 import React, { useEffect, useState } from "react";
-import {
-  Area,
-  AreaChart,
-  Bar,
-  BarChart,
-  CartesianGrid,
-  ComposedChart,
-  Legend,
-  Line,
-  LineChart,
-  Tooltip,
-  XAxis,
-  YAxis,
-} from "recharts";
+import { Area, AreaChart, Bar, BarChart, CartesianGrid, ComposedChart, Legend, Line, LineChart, Tooltip, XAxis, YAxis, } from "recharts";
 
 const Dashboard = () => {
   const [data, setData] = useState([]);
@@ -37,7 +24,7 @@ const Dashboard = () => {
 
   return (
     <div>
-      <h2 className="text-3xl font-bold">Dashboard</h2>
+      <h2 className="text-3xl font-bold">Investment,Revenue and Sells per month</h2>
       <div className="p-16 grid lg:grid-cols-2 gap-6 sm:grid-cols-1">
         <div>
           <BarChart
