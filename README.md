@@ -2,7 +2,6 @@
 
 ## [Live Website Link](https://book-review-swoad-11.netlify.app/)
 
-Private repository link: [https://github.com/programming-hero-web-course-4/product-analysis-website-Swoad-11](https://github.com/programming-hero-web-course-4/product-analysis-website-Swoad-11)
 
 ## Description
 
